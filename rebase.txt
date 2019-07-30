@@ -1,0 +1,1 @@
+Rebase creates clear history which allows user to understand the projectflow clearly
