@@ -1,2 +1,4 @@
 Welcome to Devops and rule the world
 checking for the commit
+
+checking for the FETCH
